@@ -1,2 +1,3 @@
 # _Melodrama_
-## _Trabajo Creación Multimedia 2023_
+## Trabajo Creación Multimedia 2023
+### Lucía Martínez Rodríguez - Facultad de Bellas Artes - Universidad de Granada
