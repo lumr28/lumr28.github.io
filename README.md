@@ -112,16 +112,27 @@ Si, ¿Algún problema? Que si algún problema? Me has dejado en ridículo delant
 ![1 1](https://github.com/lumr28/lumr28.github.io/assets/134587772/92cf8b71-16b1-49e5-adcc-a4a0bed21f9c)
 
 
-- Al darle al botón
+- Al darle al botón de play, comienza el juego con sus niveles, que tienen la opción de volver al menú.
+- Los distintos botones con sus indicaciones llevan a distintas escenas como la galería de imágenes, de niveles, los créditos o una escena sobre el álbum.
 
 
 # 3. Metodología
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque, a tarvés de una historia, se explora no solo el impacto emocional de una persona en la vida de otra, si no que además se aprovecha el recurso de la música para avanazar por todo esto. 
+Este  proyecto me parece una propuesta interesante porque, a través de una historia, se explora no solo el impacto emocional de una persona en la vida de otra, si no que además se aprovecha el recurso de la música para avanzar por todo esto. Desde el primer momento que empecé a desarrollar este proyecto tuve claro que quería inspirarme en la música y letras de las cancoones de Lorde.
 
+**Investigación de campo** 
 
+Tras analizar todas las canciones del album, decidí que estas serían las que utilizaría:
+
+- Grrenlight: 
+
+- Writer in the Dark: Canción en la pantalla de inicio del juego. Habla sobre la vulnerabilidad de la persona que no es querida en la relación, y, interpretada por violines, me pareció una canción adecuada para el menú de inicio del juego.
+- 
+- Perfect Places: Una canción alegre, en la que la cantante habla sobre la imposibilidad de encontrar lugares perfectos, pero recalcando aquellos lugares buenos o malos que forman parte de nuestras experiencias. En guitarra, me pareció una buena canción, más amena, para la galería de imágenes.
+
+- Sober: En esta canción, la artista utiliza ritmos muy potentes y una letra en la que habla de la dificultad de mantenerse sobria. La mezcla de elementos musicales llega a ser hasta desconcertante y me pareció que iba muy bien con esa dinámica de confusión que tiene parte del juego.
 
 **Publico / audiencia**
 
@@ -137,13 +148,13 @@ Para este trabajo he usado como base el album musical 'Melodrama' de Lorde. Adem
 
 ### Etapa 3: Problemas identificados
 
-He tenido problemas con el nivel de mensajes de móvil, que sigo sin poder arreglar que se descoloquen algunos mensajes y que el texto no se vea. P
+He tenido problemas con el nivel de mensajes de móvil, que sigo sin poder arreglar que se descoloquen algunos mensajes y que el texto no se vea. Cabe destacar también que el programa usado para realizar este proyecto, aunque muy práctico para la introducción a la programación, queda un poco innacesible debido a estar practicamente obsoleto.
 
 
 
 # 4. Conclusiones 
 
-Aunque la experiencia me ha encantado, si que es cierto que me ha hecho ver lo complicado que es crear un videojuego y la gran cantidad de tiempo que se necesita. Aún así, este proyecto me ha motivado mucho a seguir aprendiendo programación.
+Aunque la experiencia me ha encantado, si que es cierto que me ha hecho ver lo complicado que es crear un videojuego y la gran cantidad de tiempo que se necesita. Aún así, este proyecto me ha motivado mucho a seguir aprendiendo programación. Además, me habría gustado poder haberle echado mucho más tiempo. Aprender a usar el programa ha sido un auténtico desafío pero creo que con el uso de otros programas y más tiempo, podría haber perfeccionado el proyecto a mi gusto. Aún así, ha sido una experiencia muy enriquecedora y entretenida, que en definitiva me ha animado a explorar más este campo.
 
 
 
