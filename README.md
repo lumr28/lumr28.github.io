@@ -1,7 +1,7 @@
 # _Melodrama_
 ## Trabajo Creación Multimedia 2023
 ### Lucía Martínez Rodríguez - Facultad de Bellas Artes - Universidad de Granada
-Enlace al Drive con el archivo en Hippani porque no exporta bien el juego: nivel del móvil no carga las imágenes,el contador de notas que funciona y no da error de programación al abrirlo desde https://lumr28.github.io/MELODRAMA.html no funciona, entre otros.
+Enlace al Drive con el archivo en Hippani
 
 https://drive.google.com/file/d/17Pv0iRFsPFFtD5fbE3i0tFc8xKYdBsG7/view?usp=sharing
 
@@ -12,14 +12,12 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 # 1 Datos 
 
-
-
 **Titulo** : MELODRAMA
 
 **Web:**   http://lumr28.github.io
 **Autor:**  Lucía Martínez Rodríguez
 
-**Resumen** : Este proyecto cuenta,  de manera interactiva, la historia de la ruptura amorosa de la protagonista con su pareja manipuladora y su superación. 
+**Resumen** : Este proyecto cuenta,  de manera interactiva, la historia de la ruptura amorosa de la protagonista con su pareja manipuladora y su superación. Basándose en el álbum musical 'Melodrama' de la artista neozelandesa Lorde, el jugador deberá superar tres niveles de juegos, que aumentan su dificultad y que van acompañados del elemento principal del juego, la música.
 
 **Estilo/género:**  Novela interactiva
 
@@ -36,7 +34,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 - Github: lumr28
 
-
+![1 png](https://github.com/lumr28/lumr28.github.io/assets/134587772/e91f0442-23c9-4b75-897b-f3129c4dc63c)
 
 
 # 2. Memoria del proyecto 
@@ -45,6 +43,76 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 En un principio el personaje deberá volver a su casa de una fiesta. Al llegar, pelea con su pareja por mensajes, y terminan cortando la relación. Finalmente, recupera su pasión por la música como manera de superar su relación.
 
+IDEAS Y PROCESO DE DESARROLLO DEL JUEGO:
+
+Melodrama, Lorde
+
+Green Light
+Sober
+Homemade Dynamite
+The Louvre
+Liability
+Hard Feelings/Loveless
+Sober II
+Writer in the Dark
+Supercut
+Liability (Reprise)
+Perfect Places
+
+HISTORIA:
+Relación tóxica, primeras canciones ambientes chungos, iluminación baja, focos colores 
+
+MENÚ:
+
+Cuarto a oscuras, luces de colores cian, magenta y amarillo. Cama deshecha, libros en el suelo, etc.
+Para que aparezca el menú hay que encender la luz, botón con imagen de interruptor de pared rojo
+
+Opciones del menú:
+Galería de fotos (para teaser activo)
+Escenas
+Créditos (para teaser activo)
+
+GREEN LIGHT: NIVEL
+Escenario calle de noche, gente borracha. Con botones en pantalla, como nivel de Mario Bros, saltar encima de borrachos, inversión de controles a mitad por embriaguez. Personaje va riéndose, felicidad por embriaguez. Fondo se va moviendo conforme se mueve el personaje.
+Pasas por varios checkpoints, en el q el personaje consume más alcohol. Su pareja (personaje tóxico) insiste en la intoxicación.
+
+SOBER 
+En sala hospital, médico le dice q ni más fiesta ni más drogas, cambio de actitud
+
+
+
+LIABILITY: NIVEL
+Secuencia de teclas de piano, para pasar nivel hay que hacerlo correctamente. Con clave de color para tocar teclas con ratón, si falla se reinicia.
+
+Primer nivel: RE FA SI LA
+Segundo nivel:SI  LA SOL SI MI LA
+Tercer nivel: LA SOL SI MI LA SI LA SOL
+Poner botón de rehacer nivel
+Poner botón de pista! (Sale la nota en el pentagrama)
+
+
+LOVELESS: NIVEL
+Teléfono móvil mensajes enfadados, comentando necesidad cambiar hábitos, no más drogas, etc. Propicia pelea y ruptura
+
+Te has ido de la fiesta sin mí.
+
+Si, ¿Por? Si. 
+Me has dejado en ridículo delante de mis amigos
+Te dije que no me encontraba bien antes de ir. Aún así he intentado estar pero no he podido
+Siempre que salimos pasa lo mismo. Me obligas a ir cuando no quiero o no me encuentro bien. ¿No puedo elegir por mí misma?
+
+
+Si, ¿Algún problema? Que si algún problema? Me has dejado en ridículo delante de mis amigos
+
+### 2.2. Esquema de navegación
+
+- Teaser
+- Menú
+
+![1 1](https://github.com/lumr28/lumr28.github.io/assets/134587772/92cf8b71-16b1-49e5-adcc-a4a0bed21f9c)
+
+
+- Al darle al botón
 
 
 # 3. Metodología
