@@ -43,7 +43,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 En un principio el personaje deberá volver a su casa de una fiesta. Al llegar, pelea con su pareja por mensajes, y terminan cortando la relación. Finalmente, recupera su pasión por la música como manera de superar su relación.
 
-IDEAS Y PROCESO DE DESARROLLO DEL JUEGO:
+IDEAS Y PROCESO DE DESARROLLO DEL JUEGO (TODO ESTO BORRADOR ORIGINAL):
 
 Melodrama, Lorde
 
@@ -126,7 +126,7 @@ Este  proyecto me parece una propuesta interesante porque, a través de una hist
 
 Tras analizar todas las canciones del album, decidí que estas serían las que utilizaría:
 
-- Grrenlight: 
+- Grenlight: Canción mucho más animada, descripción de una fiesta y de la liberación total.
 
 - Writer in the Dark: Canción en la pantalla de inicio del juego. Habla sobre la vulnerabilidad de la persona que no es querida en la relación, y, interpretada por violines, me pareció una canción adecuada para el menú de inicio del juego.
 - 
